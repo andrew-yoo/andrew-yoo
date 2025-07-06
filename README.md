@@ -35,7 +35,7 @@ If you couldn't tell, I really don't like spam. This is designed to combat [emai
 
 <br>
 
-Feel free to ask for my PGP Key, which you can check against the fingerprint below:
+I don't know why you'd want it, but feel free to ask for my PGP Key, which you can check against the fingerprint below:
 
 <details>
 <summary>Fingerprint</summary>
