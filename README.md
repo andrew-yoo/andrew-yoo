@@ -35,10 +35,10 @@ This is just to make sure you aren't an [email harvestor](https://en.wikipedia.o
 
 <br>
 
-I don't know why you'd want it, but feel free to ask for my PGP Key, which you can check against the fingerprint below:
+I don't know why you'd want it, but feel free to ask for my PGP Key.
 
 <details>
-<summary>Fingerprint</summary>
+<summary>PGP Fingerprint</summary>
 <br>
   
 ```
