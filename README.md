@@ -1,26 +1,24 @@
-# Hi, I'm Andrew 👋
+# Hi, I'm Andrew :wave:
 
 There isn't much to see here for now; most of my repositories are private.
 
-## 🔭 Working On
+## :telescope: Working On
 + A chess engine
 + A file encryption program
 
-## 🌱 Learning
+## :seedling: Learning
 + Programming
   + Python
-  + Matlab
   + Lean
 + Math
-  + Calculus
-  + Analysis
+  + Calculus/Analysis
   + Formal logic
 
-## ⚡ Fun Facts
+## :zap: Fun Facts
 + The Python programming language was not named after the snake, but rather after the British series Monty Python.
 + Java's license prohibits it from being used in nuclear power plants.
 
-## 📫 Contact
+## :mailbox: Contact
 In case you wanted to contact me for some reason, here's my email.
 
 <details>
