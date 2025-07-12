@@ -29,7 +29,7 @@ In case you wanted to contact me for some reason, here's my email.
 
 $$x = \left(\frac{6}{\pi^2}\right)\zeta(2)$$
 
-This is just to make sure you aren't an [email harvestor](https://en.wikipedia.org/wiki/Email-address_harvesting) (I don't like spam). Hint: [basel problem](https://en.wikipedia.org/wiki/Basel_problem)).
+This is just to make sure you aren't an [email harvestor](https://en.wikipedia.org/wiki/Email-address_harvesting) (I don't like spam). Hint: [basel problem](https://en.wikipedia.org/wiki/Basel_problem).
 
 <br>
 
