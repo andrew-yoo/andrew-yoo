@@ -3,8 +3,8 @@
 There isn't much to see here for now; most of my repositories are private.
 
 ## :telescope: Working On
-+ A chess engine
-+ A file encryption program
++ Chess engine
++ Portfolio optimizer
 
 ## :seedling: Learning
 + Programming
