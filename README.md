@@ -1,6 +1,6 @@
 # Hi, I'm Andrew :wave:
 
-There isn't much to see here for now; most of my repositories are private.
+Feel free to take a look around, but note that most of my repositories are private.
 
 ## :telescope: Working On
 + Chess engine
