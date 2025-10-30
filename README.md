@@ -4,7 +4,7 @@ Feel free to take a look around, but note that most of my repositories are priva
 
 ## :telescope: Working On
 + Chess engine
-+ Portfolio optimizer
++ Numerical methods library
 
 ## :seedling: Learning
 + Programming
