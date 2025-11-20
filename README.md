@@ -9,6 +9,7 @@ Feel free to take a look around, but note that most of my repositories are priva
 ## :seedling: Learning
 + Programming
   + Python
+  + Julia
 + Math
   + Calculus/Analysis
   + Linear Algebra
