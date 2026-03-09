@@ -1,17 +1,6 @@
 # Hi, I'm Andrew :wave:
 
-Feel free to take a look around, but note that most of my repositories are private.
-
-## :telescope: Working On
-+ Numerical methods library: [numericals](https://github.com/andrew-yoo/numericals)
-
-## :seedling: Learning
-+ Programming
-  + Python
-  + Julia
-+ Math
-  + Calculus/Analysis
-  + Linear Algebra
+I'm a high schooler that likes math and coding. Feel free to take a look around, but note that most of my repositories are private.
 
 ## :chart_with_upwards_trend: Stats
 <div align="center">
