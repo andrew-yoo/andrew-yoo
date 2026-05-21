@@ -1,6 +1,6 @@
 # Hi, I'm Andrew :wave:
 
-I'm a high schooler that likes math and coding. Feel free to take a look around, but note that most of my repositories are private.
+I'm a high schooler that likes math and coding. Feel free to take a look around.
 
 ## :chart_with_upwards_trend: Stats
 <div align="center">
